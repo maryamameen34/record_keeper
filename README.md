@@ -51,7 +51,6 @@ Make sure you have the following installed:
     git clone https://github.com/maryamameen34/recordkeeper.git
     cd recordkeeper
     ```
-    *(Replace `https://github.com/maryamameen34/recordkeeper.git` with your actual repository URL)*
 
 2.  **Install dependencies:**
     ```bash
@@ -84,6 +83,10 @@ NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/
     ```
 
 2.  Open your browser and visit `http://localhost:3000`.
+
+## Live Demo
+
+Check out the live deployment of RecordKeeper here: [https://record-keeper-pi.vercel.app/](https://record-keeper-pi.vercel.app/)
 
 ## Usage
 
