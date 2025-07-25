@@ -87,6 +87,8 @@ NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/
 ## Live Demo
 
 Check out the live deployment of RecordKeeper here: [https://record-keeper-pi.vercel.app/](https://record-keeper-pi.vercel.app/)
+
+
 Check out the live demo of RecordKeeper here: [https://www.youtube.com/watch?v=FT1hMN7vg-M&t=6s](https://www.youtube.com/watch?v=FT1hMN7vg-M&t=6s)
 ## Usage
 
